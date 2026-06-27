@@ -60,7 +60,7 @@ The database consists of six interconnected tables.
 
 The schema is normalized using **Primary Keys**, **Foreign Keys**, and relational constraints to maintain data integrity.
 
-*(Insert your ERD here)*
+![ERD](https://github.com/parrithi/Library-System-Management/blob/main/ERD_Library.png)
 
 ---
 
