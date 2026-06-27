@@ -2,7 +2,7 @@
 
 > A portfolio-ready SQL project demonstrating relational database design, PostgreSQL development, business reporting, and advanced SQL analytics through a real-world Library Management System.
 
-![Banner Image](images/library-banner.png)
+![Banner Image](https://github.com/parrithi/Library-System-Management/blob/main/Library_.png)
 
 ---
 
