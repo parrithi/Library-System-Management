@@ -1,4 +1,4 @@
-# Library Management System using SQL Project 
+# Library Management System using SQL Project --P2
 
 ## Project Overview
 
@@ -8,7 +8,7 @@
 
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
 
-![Library_project](https://github.com/parrithi/Library-System-Management/blob/main/Library_.png)
+![Library_project](https://github.com/najirh/Library-System-Management---P2/blob/main/library.jpg)
 
 ## Objectives
 
@@ -20,7 +20,7 @@ This project demonstrates the implementation of a Library Management System usin
 ## Project Structure
 
 ### 1. Database Setup
-![ERD](https://github.com/parrithi/Library-System-Management/blob/main/ERD_Library.png)
+![ERD](https://github.com/najirh/Library-System-Management---P2/blob/main/library_erd.png)
 
 - **Database Creation**: Created a database named `library_db`.
 - **Table Creation**: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
@@ -476,9 +476,9 @@ WHERE isbn = '978-0-375-41398-8'
 
 
 **Task 20: Create Table As Select (CTAS)**
+Objective: Create a CTAS (Create Table As Select) query to identify overdue books and calculate fines.
 
-
-
+Description: Write a CTAS query to create a new table that lists each member and the books they have issued but not returned within 30 days. The table should include:
     The number of overdue books.
     The total fines, with each day's fine calculated at $0.50.
     The number of books issued by each member.
@@ -486,6 +486,8 @@ WHERE isbn = '978-0-375-41398-8'
     Member ID
     Number of overdue books
     Total fines
+
+
 
 ## Reports
 
@@ -512,6 +514,7 @@ This project demonstrates the application of SQL skills in creating and managing
 
 This project showcases SQL skills essential for database management and analysis. For more content on SQL and data analysis, connect with me through the following channels:
 
+- **YouTube**: [Subscribe to my channel for tutorials and insights](https://www.youtube.com/@zero_analyst)
 - **Instagram**: [Follow me for daily tips and updates](https://www.instagram.com/zero_analyst/)
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/najirr)
 - **Discord**: [Join our community for learning and collaboration](https://discord.gg/36h5f2Z5PK)
