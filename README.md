@@ -478,7 +478,7 @@ WHERE isbn = '978-0-375-41398-8'
 **Task 20: Create Table As Select (CTAS)**
 
 
-Description: Write a CTAS query to create a new table that lists each member and the books they have issued but not returned within 30 days. The table should include:
+
     The number of overdue books.
     The total fines, with each day's fine calculated at $0.50.
     The number of books issued by each member.
@@ -486,8 +486,6 @@ Description: Write a CTAS query to create a new table that lists each member and
     Member ID
     Number of overdue books
     Total fines
-
-
 
 ## Reports
 
